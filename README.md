@@ -1,5 +1,5 @@
 # rngmg-or-ubbmg
-Music_, OreImage 작성: url로
+Music_ 작성: url로
 
 OreInfo 작성: 새 줄 시작할 때 #쓰기
 이름@가격@체력@최소드랍@최대드랍@타입@
